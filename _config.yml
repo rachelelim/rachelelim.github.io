@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Rachel E. Lim"
   avatar           : "profile.png"
-  bio              : "I am a structural materials scientist using advanced synchrotron X-ray techniques to characterize metals deformation."
-  location         : 
+  bio              : "I am a postdoctoral researcher in structural materials science using advanced synchrotron X-ray techniques to characterize metals deformation."
+  location         :
   employer         : "Pennsylvania State University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=t3IQLJ4AAAAJ&hl=en&oi=sra"
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        : "rlim_photo"
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0001-9913-4348"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "rlim_photo"
