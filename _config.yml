@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Dr. Rachel E. Lim"
   avatar           : "profile.png"
-  bio              : "I am a postdoctoral researcher using advanced synchrotron
-  X-ray techniques and high performance computing to to characterize structural materials."
+  bio              : "I am a postdoctoral researcher using advanced synchrotron X-ray techniques and high performance computing to to characterize structural materials."
   location         :
   employer         : "Pennsylvania State University"
   pubmed           :
